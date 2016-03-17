@@ -17,14 +17,7 @@ using System.Web.Mvc;
         --> om metrou 1 mai..cum ajunge la unirii
         --> contact fata ..s-au prins castile mele in parul ei, So am atras atentia..a fost ok..s-a intors putin..am cerut
         scuze , Nu am mai avut nicio reactie si ia a intors capul si a mers mai departe . chiar daca o fata e 
-        serioasa nu inseamna ca nu ar raspunde pozitiv abordarilor tale
-IMPULS ABORDARE: IRENA, EMILIA, FLORINA
-PRIETEN
-FETE MASTER MANAGEMENT..sunt tanar acum..acum ce pot agata, mai tarziu e mai greu..acum am comoara asta = tineretea
-        ---tipa banca: sa moara franta..=> stilul informal la greu!!!..bazeaza-te pe el, sa nu iti fie teama sa il folosesti
-        sa te lasi inselat de aparente=imagine de relatie oficiala/publica..toata lumea in sinea ei e informala..
-
-        CE A AVUT IRENA LA CV????
+        serioasa n
 namespace gitProject.Controllers
 {
     public class HomeController : Controller
